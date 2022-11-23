@@ -1,0 +1,28 @@
+.starProduct{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1vmax auto;
+    padding-left: 2%;
+}
+
+.starProduct>div:last-child{
+    display: flex;
+    flex-wrap: wrap;
+    width: 46%;
+    padding-left: 1%;
+}
+
+.secondDivProduct{
+    margin: 0.3%;
+}
+
+.starProduct img{
+    transition: all 0.5s;
+}
+
+.starProduct img:hover{
+    box-shadow: 10px 10px 10px 10px rgba(53,53,53,0.363);
+    transition-timing-function: ease-in-out;
+    transform: rotateX(10deg);
+}
