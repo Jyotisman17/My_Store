@@ -343,6 +343,176 @@
                   "image": "https://i02.appmifile.com/571_operator_in/22/10/2020/2df7eba98e739b3329dda041b05a0aac.jpg?width=612&height=612"
             }
       ],
+
+      "hotAccessories_NEW":{
+            "mobileStore":[
+                  {
+                        "name":"Redmi 11 prime 4g",
+                        "price":"₹ 13,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1662446292.95955638.jpg",
+                        "url":"https://www.mi.com/in/buy/product/redmi-11-prime-5g"
+                  },
+                  {
+                        "name":"Redmi A1",
+                        "price":"₹ 6,499",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1662398930.47448521.jpg",
+                        "url":"https://www.mi.com/in/buy/product/redmi-a1"
+                  },
+                  {
+                        "name":"Redmi 10",
+                        "price":"₹ 10,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1647422910.83341748.png",
+                        "url":"https://www.mi.com/in/buy/product/redmi-10"
+                  },
+                  {
+                        "name":"Xiaomi 11i Hypercharge 5G",
+                        "price":"₹ 25,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1641445044.33945563.png",
+                        "url":"https://www.mi.com/in/buy/product/xiaomi-11i-hypercharge-5g"
+                  },
+                  {
+                        "name":"Xiaomi 11T pro 5G",
+                        "price":"₹ 34,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1642499730.02192097.jpg",
+                        "url":"https://www.mi.com/in/buy/product/xiaomi-11t-pro-5g"
+                  }
+            ],
+            "TV":[
+                  {
+                        "name":"Xiaomi Smart TV 5A Series ",
+                        "price":"₹ 13,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650993021.84395849.jpg",
+                        "url":"https://www.mi.com/in/product/xiaomi-smart-tv-5a-series/"
+                  },
+                  {
+                        "name":"Redmi Smart TV 4K Ultra HD X Series",
+                        "price":"₹ 26,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1646032103.43951518.jpg",
+                        "url":"https://www.mi.com/in/product/redmi-smart-tv"
+                  },
+                  {
+                        "name":"MI TV 5X Series",
+                        "price":"₹ 31,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1629897150.48646618.jpg",
+                        "url":"https://www.mi.com/in/buy/product/mi-tv-5x-series"
+                  },
+                  {
+                        "name":"Xiaomi Smart TV X Series",
+                        "price":"₹ 28,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1663152565.22081554.jpg",
+                        "url":"https://www.mi.com/in/product/xiaomi-smart-tv-x-series"
+                  },
+                  {
+                        "name":"Xiaomi OLED Vision 55 4K Ultra HD Smart Android TV",
+                        "price":"₹ 94,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650976094.42847806.jpg",
+                        "url":"https://www.mi.com/in/xiaomi-oled-vision-tv"
+                  }
+            ],
+            "mobileAccessories":[
+                  {
+                        "name":"Cases & Covers",
+                        "price":"₹ 49 onwards",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1551164869.57618003.jpg",
+                        "url":"https://www.mi.com/in/cases-protectors"
+                  },
+                  {
+                        "name":"Charger & USB Gadgets",
+                        "price":"₹ 179 onwards",
+                        "image":"https://i01.appmifile.com/webfile/globalimg/in/cms/5A5AA9AC-41A3-7E86-5922-928B312919B0.jpg",
+                        "url":"https://www.mi.com/in/chargers-cables"
+                  },
+                  {
+                        "name":"Mi Wireless Power Bank 10000mAh",
+                        "price":"₹ 2,499",
+                        "image":"https://i01.appmifile.com/webfile/globalimg/in/cms/3CBAACCE-D18A-B241-A4F8-54A4CCE194A5.jpg",
+                        "url":"https://www.mi.com/in/mi-wireless-power-bank/"
+                  },
+                  {
+                        "name":"10000mAh Mi Power Bank 3i",
+                        "price":"₹ 1,099",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1600434881.35114664.jpg?width=420&height=420",
+                        "url":"https://store.mi.com/in/item/3203800025"
+                  },
+                  {
+                        "name":"Redmi SonicBass Wireless Earphones",
+                        "price":"₹ 1,099",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1601900775.75794078.png?width=420&height=420",
+                        "url":"https://store.mi.com/in/item/3204100005"
+                  }
+            ],
+            "lifeStyle":[
+                  {
+                        "name":"Mi Travel Backpack",
+                        "price":"₹ 999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1536381648.16353261.png?width=420&height=420",
+                        "url":"https://store.mi.com/in/item/3181200028"
+                  },
+                  {
+                        "name":"Mi Athleisure Shoes",
+                        "price":"₹ 1,499",
+                        "image":"https://i02.appmifile.com/363_operator_in/13/10/2020/c7bde508f128d7b1fd10a224d18a5333.png",
+                        "url":"https://www.mi.com/in/mi-athleisure-shoes/"
+                  },
+                  {
+                        "name":"Mi Beard Trimmer",
+                        "price":"₹ 1,399",
+                        "image":"https://i01.appmifile.com/webfile/globalimg/in/cms/CEEE67A3-3578-7048-887D-CFC3D90B5D17.jpg",
+                        "url":"https://www.mi.com/in/mi-beard-trimmer"
+                  },
+                  {
+                        "name":"Mi KN-95 Protective Mask (Pack of 5)",
+                        "price":"₹ 399",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1602500062.48215120.png?width=420&height=420",
+                        "url":"https://store.mi.com/in/item/3204200006"
+                  },
+                  {
+                        "name":"Mi Portable Electric Air Compressor",
+                        "price":"₹ 2,099",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1592479075.0368979.png?width=420&height=420",
+                        "url":"https://store.mi.com/in/item/3202500016"
+                  },
+                  {
+                        "name":"Mi T-shirts",
+                        "price":"₹ 399 onwards",
+                        "image":"https://i01.appmifile.com/webfile/globalimg/in/cms/0D320403-6180-D6D6-9F57-4EDF0FEB58C7.jpg",
+                        "url":"https://www.mi.com/in/apparel"
+                  }
+                  
+            ],
+            "smartHome":[
+                  {
+                        "name":"Xiaomi Robot Vaccum Mop 2 Pro",
+                        "price":"₹ 25,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1658400388.2213048.jpg",
+                        "url":"https://www.mi.com/in/xiaomi-robot-vaccum-mop-2-pro"
+                  },
+                  {
+                        "name":"Xiaomi Smart Air Fryer (3.5 L)",
+                        "price":"₹ 6,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1660019943.77048905.jpg",
+                        "url":"https://www.mi.com/in/xiaomi-smart-air-fryer"
+                  },
+                  {
+                        "name":"Xiaomi 360° Home Security Camera 1080p 2i",
+                        "price":"₹ 2,499",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1657105733.93229769.jpg",
+                        "url":"https://www.mi.com/in/xiaomi-360-home-security-camera-1080p-2i"
+                  },
+                  {
+                        "name":"Xiaomi Smart Standing Fan 2",
+                        "price":"₹ 6,000",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1657393587.11333510.jpg",
+                        "url":"https://www.mi.com/in/product/xiaomi-smart-standing-fan-2/"
+                  },
+                  {
+                        "name":" Mi Air Purifier 3",
+                        "price":"₹ 9,999",
+                        "image":"https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1640025191.09699695.jpg",
+                        "url":"https://www.mi.com/in/product/mi-air-purifier-3/"
+                  }
+            ]
+      },
       "hotAccessories": {
             "music": [
                   {
@@ -484,6 +654,30 @@
                         "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1601900775.75794078.png?width=420&height=420"
                   }
             ]
+      },
+
+
+      "hotAccessoriesCover_NEW":{
+            "mobileStore":{
+                  "imageLink":"https://i02.appmifile.com/750_operator_in/03/11/2022/121c73cae81c3018f0ebda66f15b4999.jpg",
+                  "url":"https://in.event.mi.com/in/audio-store"
+            },
+            "TV":{
+                  "imageLink":"https://i02.appmifile.com/793_operator_in/03/11/2022/c6105b9e31f81b374d42860103e208ab.jpg",
+                  "url":"https://in.event.mi.com/in/smart-home-store"
+            },
+            "mobileAccessories":{
+                  "imageLink":"https://i02.appmifile.com/556_operator_in/03/11/2022/ccc6c2a80c5520577948f69571ebd258.jpg",
+                  "url":"https://www.mi.com/in/chargers-cables"
+            },
+            "lifeStyle":{
+                  "imageLink":"https://i02.appmifile.com/841_operator_in/03/11/2022/661437daaa36bc785170b86c0a2b4a23.jpg",
+                  "url":"https://in.event.mi.com/in/lifestyle-store"
+            },
+            "smartHome":{
+                  "imageLink":"https://i02.appmifile.com/875_operator_in/03/11/2022/e648803b5ffe5df2cc3fc53970861e7f.jpg",
+                  "url":"https://www.mi.com/in/power-banks"
+            }
       },
       "hotAccessoriesCover": {
             "music": "https://i01.appmifile.com/webfile/globalimg/in/cms/500BFA0B-CBEF-5DFF-79A9-E925F9F2FEE9.jpg",
