@@ -6,6 +6,9 @@ import data from "./data/data.json"
 import Offers from "./components/Offers.js"
 import Heading from "./components/Heading.js"
 import StarProduct from"./components/StarProduct.js"
+import HotAccessoriesMenu from "./components/HotAccessoriesMenu.js"
+
+
 
 
 
@@ -19,8 +22,11 @@ function App() {
     <Heading text="STAR PRODUCTS"/>
     <StarProduct starProduct={data.starProduct}/>
     <Heading text="HOT PRODUCTS"/>
+    <HotAccessoriesMenu/>
     <Heading text="This site is under construction  "/>
     <Heading text="Guided by K.L.Narayan Sir"/>
+    
+
   </Router>
   );
 }
