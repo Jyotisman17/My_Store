@@ -23,16 +23,16 @@ function App() {
     
     <Routes>
 
-    <Route exact path="/mobileStore"  element = {<HotAccessories mobileStore={data.hotAccessories_NEW.mobileStore} mobileStoreCover={data.hotAccessoriesCover_NEW.mobileStore.imageLink}  />}/>
-
-    <Route exact path="/TV" element={<HotAccessories tV={data.hotAccessories_NEW.TV} tVCover={data.hotAccessoriesCover_NEW.TV.imageLink}  />}/>
-
-    <Route exact path="/mobileAccessories" element={<HotAccessories mobileAccessories={data.hotAccessories_NEW.mobileAccessories} mobileAccessoriesCover={data.hotAccessoriesCover_NEW.mobileAccessories.imageLink}  />}/>
-
-    <Route exact path="/lifestyle" element={<HotAccessories lifeStyle={data.hotAccessories_NEW.lifeStyle} lifeStyleCover={data.hotAccessoriesCover_NEW.lifeStyle.imageLink}  />}/>
-
-    <Route exact path="/smartHome" element={<HotAccessories smartHome={data.hotAccessories_NEW.smartHome} smartHomeCover={data.hotAccessoriesCover_NEW.smartHome.imageLink}  />}/>
-
+    <Route exact path="/mobileStore"  element = {<HotAccessories mobileStore={data.hotAccessories_NEW.mobileStore} 
+      mobileStoreCover={data.hotAccessoriesCover_NEW.mobileStore.imageLink}  />}/>
+    <Route exact path="/TV" element={<HotAccessories tV={data.hotAccessories_NEW.TV} 
+      tVCover={data.hotAccessoriesCover_NEW.TV.imageLink}  />}/>
+    <Route exact path="/mobileAccessories" element={<HotAccessories mobileAccessories={data.hotAccessories_NEW.mobileAccessories} 
+      mobileAccessoriesCover={data.hotAccessoriesCover_NEW.mobileAccessories.imageLink}  />}/>
+    <Route exact path="/lifestyle" element={<HotAccessories lifeStyle={data.hotAccessories_NEW.lifeStyle} 
+      lifeStyleCover={data.hotAccessoriesCover_NEW.lifeStyle.imageLink}  />}/>
+    <Route exact path="/smartHome" element={<HotAccessories smartHome={data.hotAccessories_NEW.smartHome} 
+    smartHomeCover={data.hotAccessoriesCover_NEW.smartHome.imageLink}  />}/>
   </Routes >
 
 
