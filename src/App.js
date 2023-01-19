@@ -8,6 +8,7 @@ import Heading from "./components/Heading.js"
 import StarProduct from"./components/StarProduct.js"
 import HotAccessoriesMenu from "./components/HotAccessoriesMenu.js"
 import HotAccessories from "./components/HotAccessories.js"
+import ProductReviews from "./components/ProductReviews.js"
 
 function App() {
   return (
@@ -35,7 +36,8 @@ function App() {
     smartHomeCover={data.hotAccessoriesCover_NEW.smartHome.imageLink}  />}/>
   </Routes >
 
-
+  <Heading text="PRODUCT REVIEWS"/>
+  <ProductReviews productReviews={data.productReviews}/>
   <Heading text="This site is under construction  "/>
     <Heading text="Guided by K.L.Narayan Sir"/> 
   </Router>
