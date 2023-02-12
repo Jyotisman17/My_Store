@@ -9,6 +9,8 @@ import StarProduct from"./components/StarProduct.js"
 import HotAccessoriesMenu from "./components/HotAccessoriesMenu.js"
 import HotAccessories from "./components/HotAccessories.js"
 import ProductReviews from "./components/ProductReviews.js"
+import Videos from "./components/Videos.js"
+
 
 function App() {
   return (
@@ -38,6 +40,9 @@ function App() {
 
   <Heading text="PRODUCT REVIEWS"/>
   <ProductReviews productReviews={data.productReviews}/>
+  <Heading text="VIDEOS"/>
+  <Videos videos={data.videos}/>
+
   <Heading text="This site is under construction  "/>
     <Heading text="Guided by K.L.Narayan Sir"/> 
   </Router>
