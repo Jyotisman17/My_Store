@@ -14,13 +14,13 @@ const NavBar = () => {
                 </Link>
             </div>
 
-                <a href="https://www.mi.com/in/list" className="navlinks"> Xiaomi Phones</a>
+                <a href="https://www.mi.com/in/phone#xiaomi" className="navlinks"> Xiaomi Phones</a>
                 <a href="https://www.mi.com/in/list" className="navlinks">Redmi Phones</a>
-                <a href="https://www.mi.com/in/all-mi-tv" className="navlinks">TV</a>
-                <a href="https://www.mi.com/in/xiaomi-laptops" className="navlinks">Laptops</a> 
-                <a href="https://www.mi.com/in/products" className="navlinks">Accessories</a>
-                <a href="https://www.mi.com/in/home" className="navlinks">Home</a>
-                <a href="https://www.mi.com/in/audio" className="navlinks">Audio</a>
+                <a href="https://www.mi.com/in/smart-home#tv" className="navlinks">TV</a>
+                <a href="https://www.mi.com/in/product-list/laptops" className="navlinks">Laptops</a> 
+                <a href="https://www.mi.com/in/life-style/?utm_source=google&utm_medium=cpc&utm_campaign=%5BA_BR%5BSEM_B%5BXiaomiBRAND_S%5D20190102%5D&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA6X6Amjq-ykj_H-fmZzPFVjq-rQYyMBar0KZoUYu5ymqHVq6Zd9y4waAjMzEALw_wcB" className="navlinks">Accessories</a>
+                
+                <a href="https://www.mi.com/in/product-list/audio" className="navlinks">Audio</a>
 
                 <div className='searchbox'>
                     <input type="text" name='search' placeholder='search Products' />
